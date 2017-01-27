@@ -1,7 +1,7 @@
 {
   "name": "eloquent-to-sql",
   "version": "1.0.0",
-  "description": "Produce a ready-to-run SQL statement from an Eloquent builder. Edit",
+  "description": "Produce a ready-to-run SQL statement from an Eloquent builder.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
