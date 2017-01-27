@@ -1,0 +1,20 @@
+{
+    "name": "lotvantage/eloquent-to-sql",
+    "description": "Produce a ready-to-run SQL statement from an Eloquent builder.",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "laravel/framework": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LotVantage\\EloquenToSql\\": "src/LotVantage/EloquentToSql"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    }
+}
