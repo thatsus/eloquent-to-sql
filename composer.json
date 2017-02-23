@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LotVantage\\EloquentToSql\\": "src/LotVantage/EloquentToSql"
+            "LotVantage\\": "src/LotVantage"
         }
     },
     "autoload-dev": {
