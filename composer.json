@@ -1,6 +1,14 @@
 {
     "name": "lotvantage/eloquent-to-sql",
     "description": "Produce a ready-to-run SQL statement from an Eloquent builder.",
+    "authors": [
+        {
+            "name": "Dan Kuck-Alvarez",
+            "email": "dankuck@gmail.com",
+            "homepage": "http://dankuck.github.io/",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.5.9"
     },
